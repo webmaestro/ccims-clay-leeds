@@ -1,0 +1,13 @@
+h2 { margin-bottom: 0; padding-bottom: 0; }
+label { font-weight: bold; }
+td { padding: 5px; border: 1px dotted #666; border-collapse: collapse; }
+#main { background-color: #fff; background-image: none; }
+.createUser, .deleteMe { background: #ccc; border: 4px outset; padding: 2px 2px 2px 3px; width: 100px; text-align: center; }
+.createUser:hover, .deleteMe:hover { background: #bbb; }
+.editMe { cursor: w-resize; }
+.emailMe { cursor: help; }
+.tableHeader, .tdLabel { background-color: #ccc; }
+.tableHeader th { margin: 0; padding: 10px 5px ; }
+.pageHeader { padding: 15px 5px ;  }
+.watchMe { cursor: ne-resize; }
+.welcomeMessage { color: #fff; float: right; height: 150px;; padding: 35px 5px 0 0; }
